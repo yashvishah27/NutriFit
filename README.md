@@ -13,6 +13,10 @@ Below is the working of the application attached.
 </br>
 </br>
 ![14](https://github.com/yashvishah27/NutriFit/assets/138695600/ed38e18a-cda9-4d6d-b40b-0903a4bb65b1)
+</br>
+</br>
+</br>
 
 
+https://github.com/yashvishah27/NutriFit/assets/138695600/29caca17-37be-4a3c-8a20-006a3bd6912c
 
